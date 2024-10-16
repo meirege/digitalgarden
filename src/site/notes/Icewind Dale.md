@@ -30,7 +30,7 @@ Her presence adds a sense of dread that permeates everything. Her name is whispe
 
 But the cold and the isolation are not the only dangers. Icewind Dale is home to creatures just as deadly as the freezing winds. Predators stalk the tundra: wolves, frost giants, remorhazes, yetis, and even white dragons. These beasts are desperate, always hungry, and driven to the edges of madness by the unrelenting cold. They are creatures of the wild, perfectly adapted to survive where others would perish, and they will hunt you without mercy.
 
-More terrifying still are the creatures twisted by the magic of [[the Frostmaiden’s curse\|the Frostmaiden’s curse]]. The cold has a way of warping both the land and those who dwell within it. Strange, otherworldly beings, like the [[Coldlight Walkers,\|Coldlight Walkers,]] roam the tundra—undead horrors animated by Auril’s magic, their hollow eyes glowing with a cold, blue light. They are relentless, hunting anything with the warmth of life in them.
+More terrifying still are the creatures twisted by the magic of [[The Frostmaiden’s curse\|the Frostmaiden’s curse]]. The cold has a way of warping both the land and those who dwell within it. Strange, otherworldly beings, like the [[Coldlight Walkers,\|Coldlight Walkers,]] roam the tundra—undead horrors animated by Auril’s magic, their hollow eyes glowing with a cold, blue light. They are relentless, hunting anything with the warmth of life in them.
 
 Every shadow may hide a predator, every snowbank may conceal an ambush, and every breath of wind may carry with it the whisper of something ancient, waiting for the moment to strike.
 
@@ -51,8 +51,10 @@ Your characters will feel the weight of this world on their shoulders. The cold 
 In this place, the only constant is the cold, and the only certainty is that, in Icewind Dale, nothing lasts forever—not the warmth of the fire, not the safety of shelter, and perhaps not even the hope of survival.
 
 ## Player characters
+- [[Zoë\|Zoë]]
+- [[Koen\|Koen]]
+- [[Kenrokuen -Ryu-Kanazawa\|Kenrokuen -Ryu-Kanazawa]]
 - [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
-- [[Drakthar Frostscale\|Drakthar Frostscale]]
 
 { .block-language-dataview}
 
