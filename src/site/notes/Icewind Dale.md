@@ -51,10 +51,10 @@ Your characters will feel the weight of this world on their shoulders. The cold 
 In this place, the only constant is the cold, and the only certainty is that, in Icewind Dale, nothing lasts forever—not the warmth of the fire, not the safety of shelter, and perhaps not even the hope of survival.
 
 ## Player characters
-- [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
+- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 - [[Koen\|Koen]]
 - [[Zoë\|Zoë]]
-- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
+- [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 
 { .block-language-dataview}
 
@@ -66,15 +66,15 @@ In this place, the only constant is the cold, and the only certainty is that, in
 ## Locaties
 ### Ten towns
 - [[Easthaven\|Easthaven]]
-- [[Bremen\|Bremen]]
-- [[Bryan Shander\|Bryan Shander]]
-- [[Caer Konig\|Caer Konig]]
-- [[Caer-Dineval\|Caer-Dineval]]
-- [[Dougan's Hole\|Dougan's Hole]]
 - [[Good mead\|Good mead]]
-- [[Loneleywood\|Loneleywood]]
+- [[Dougan's Hole\|Dougan's Hole]]
+- [[Caer-Dineval\|Caer-Dineval]]
 - [[Targos\|Targos]]
 - [[Termalaine\|Termalaine]]
+- [[Bryan Shander\|Bryan Shander]]
+- [[Loneleywood\|Loneleywood]]
+- [[Caer Konig\|Caer Konig]]
+- [[Bremen\|Bremen]]
 
 { .block-language-dataview}
 

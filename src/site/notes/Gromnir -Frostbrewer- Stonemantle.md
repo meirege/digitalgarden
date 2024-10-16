@@ -18,10 +18,10 @@
 | ------------- | ----- | -------- |
 | Strength      | 10    | +0       |
 | Dexterity     | 12    | +1       |
-| Constitution  | 14    | +2       |
-| Intelligence  | 8     | -1       |
-| Wisdom        | 15    | +2       |
-| Charisma      | 13    | +1       |
+| Constitution  | 13    | +2       |
+| Intelligence  | 9     | -1       |
+| Wisdom        | 14    | +2       |
+| Charisma      | 12    | +1       |
 
 #### Belangrijke Ability Scores:
 1. **Wisdom** (Wijsheid): Hoofdfocus voor spreuken en inzicht (vooral belangrijk voor druïden).
@@ -40,24 +40,6 @@ Deze ability scores zorgen ervoor dat Gromnir een sterke druïde is die goed kan
 • **Persuasion** (Overtuigen): Sterk in sociale interacties.
 • **Insight** (Inzicht): Helpt om de intenties van anderen te begrijpen.
 • **Animal Handling** (Dierenbehandeling): Nuttig voor interacties met dieren.
-
-
-### Spells
-#### Cantrips (2):
-
-| Cantrip    | Info                                                        |
-| ---------- | ----------------------------------------------------------- |
-| Guidance   | Geeft een +1d4 bonus op vaardigheidschecks.                 |
-| Thorn Whip | Melee-spreuk die schade doet en vijanden naar je toe trekt. |
-
-#### Spells lvl1 (4):
-
-| Spell        | Info                                                                        |
-| ------------ | --------------------------------------------------------------------------- |
-| Healing word | Geneest bondgenoten op afstand (1d4 + je wijsheid-modifier).                |
-| Entangle     | Beheerst een gebied (4,5 meter radius) en houdt vijanden vast in gras.      |
-| Faerie Fire  | Merkt vijanden in een gebied, waardoor aanvallen op hen advantage hebben.   |
-| Goodberry    | Creëert tot 10 bessen die je kunt gebruiken voor genezing (1d4) en voedsel. |
 
 ## Background
 Gromnir Stonemantle groeide op in de dwergenburcht [[Kharaz-Dun\|Kharaz-Dun]], verborgen in de afgelegen bergen van de [[Spine of the World\|Spine of the World]]. Als jonge [[Hill Dwarf\|Hill Dwarf]] leerde hij het ambacht van het brouwen van zijn vader, een ervaren brouwer die beroemd was om zijn sterke, donkere bieren. Gromnir had altijd een passie voor het brouwen en de kunst van het creëren van unieke smaken, vooral in de koude klimaten van zijn thuisland.
@@ -90,6 +72,6 @@ Gromnir is teruggekeerd naar [[Icewind Dale\|Icewind Dale]] om zijn oude mentor 
 
 
 ## Relaties
-• [[Drakthar Frostscale\|Drakthar Frostscale]]: Een White Dragonborn Samurai en Gromnir’s teamgenoot. Hun dynamiek kan variëren van serieuze strijd tot het delen van drank en verhalen.
+• [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]: Een White Dragonborn Samurai en Gromnir’s teamgenoot. Hun dynamiek kan variëren van serieuze strijd tot het delen van drank en verhalen.
 
 • Dorpsgenoten: Gromnir heeft sterke banden met zijn oude vrienden en de inwoners van [[Good mead\|Good Mead]], die hem nog steeds zien als een held.

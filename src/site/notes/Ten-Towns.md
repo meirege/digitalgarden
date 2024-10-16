@@ -3,14 +3,14 @@
 ---
 
 - [[Easthaven\|Easthaven]]
-- [[Bremen\|Bremen]]
-- [[Bryan Shander\|Bryan Shander]]
-- [[Caer Konig\|Caer Konig]]
-- [[Caer-Dineval\|Caer-Dineval]]
-- [[Dougan's Hole\|Dougan's Hole]]
 - [[Good mead\|Good mead]]
-- [[Loneleywood\|Loneleywood]]
+- [[Dougan's Hole\|Dougan's Hole]]
+- [[Caer-Dineval\|Caer-Dineval]]
 - [[Targos\|Targos]]
 - [[Termalaine\|Termalaine]]
+- [[Bryan Shander\|Bryan Shander]]
+- [[Loneleywood\|Loneleywood]]
+- [[Caer Konig\|Caer Konig]]
+- [[Bremen\|Bremen]]
 
 { .block-language-dataview}
