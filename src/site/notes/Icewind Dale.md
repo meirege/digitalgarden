@@ -4,6 +4,9 @@
 
 ```table-of-contents
 ```
+## D&D Beyond
+https://www.dndbeyond.com/campaigns/join/5808112588734630
+
 ## Setting
 
 ![Icewind Dale map](https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/map-poster.jpg)
@@ -56,8 +59,8 @@ In this place, the only constant is the cold, and the only certainty is that, in
 
 ## Player characters
 - [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
-- [[Koen\|Koen]]
 - [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
+- [[Koen\|Koen]]
 - [[Xilraen Mizzrym\|Xilraen Mizzrym]]
 
 { .block-language-dataview}
