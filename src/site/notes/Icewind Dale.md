@@ -53,8 +53,8 @@ In this place, the only constant is the cold, and the only certainty is that, in
 ## Player characters
 - [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 - [[Koen\|Koen]]
-- [[Zoë\|Zoë]]
 - [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
+- [[Xilraen Mizzrym\|Xilraen Mizzrym]]
 
 { .block-language-dataview}
 

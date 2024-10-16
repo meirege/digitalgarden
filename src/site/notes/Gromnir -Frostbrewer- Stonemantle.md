@@ -7,8 +7,8 @@
 ```
 
 ## Character info test
-**Race**: Hill Dwarf
-**Class**: Druid (Circle of the Moon)
+**Race**: [[Hill Dwarf\|Hill Dwarf]]
+**Class**: [[Druid\|Druid]] (Circle of the Moon)
 **Background**: Folk Hero
 **Player**: Gert-Jan
 
