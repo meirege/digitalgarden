@@ -51,8 +51,8 @@ Your characters will feel the weight of this world on their shoulders. The cold 
 In this place, the only constant is the cold, and the only certainty is that, in Icewind Dale, nothing lasts forever—not the warmth of the fire, not the safety of shelter, and perhaps not even the hope of survival.
 
 ## Player characters
-- [[Drakthar Frostscale\|Drakthar Frostscale]]
 - [[Gromnir "Frostbrewer" Stonemantle\|Gromnir "Frostbrewer" Stonemantle]]
+- [[Drakthar Frostscale\|Drakthar Frostscale]]
 
 { .block-language-dataview}
 
@@ -63,16 +63,16 @@ In this place, the only constant is the cold, and the only certainty is that, in
 
 ## Locaties
 ### Ten towns
-- [[Good mead\|Good mead]]
-- [[Dougan's Hole\|Dougan's Hole]]
+- [[Easthaven\|Easthaven]]
+- [[Bremen\|Bremen]]
+- [[Bryan Shander\|Bryan Shander]]
+- [[Caer Konig\|Caer Konig]]
 - [[Caer-Dineval\|Caer-Dineval]]
+- [[Dougan's Hole\|Dougan's Hole]]
+- [[Good mead\|Good mead]]
+- [[Loneleywood\|Loneleywood]]
 - [[Targos\|Targos]]
 - [[Termalaine\|Termalaine]]
-- [[Bryan Shander\|Bryan Shander]]
-- [[Loneleywood\|Loneleywood]]
-- [[Caer Konig\|Caer Konig]]
-- [[Bremen\|Bremen]]
-- [[Easthaven\|Easthaven]]
 
 { .block-language-dataview}
 
