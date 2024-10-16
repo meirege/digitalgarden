@@ -6,6 +6,10 @@
 ```
 ## Setting
 
+![Icewind Dale map](https://media.dndbeyond.com/compendium-images/idrotf/7Av7Gi2DxDtdzZPt/map-poster.jpg)
+
+![Pasted image 20241016200619.jpg](/img/user/Pasted%20image%2020241016200619.jpg)
+
 ### Icewind Dale: The Frozen North
 
 You are in Icewind Dale, a place where hope is as scarce as warmth, and every breath is a reminder of the bitter cold. Located far to the north of the Sword Coast, beyond the Spine of the World, Icewind Dale is a barren, frozen expanse locked in the icy grip of a never-ending winter. For the past two years, the sun has not risen above the horizon, casting the land into an eternal twilight. This is the Frostmaiden's curse.
