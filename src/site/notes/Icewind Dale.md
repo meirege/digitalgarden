@@ -51,13 +51,13 @@ Your characters will feel the weight of this world on their shoulders. The cold 
 In this place, the only constant is the cold, and the only certainty is that, in Icewind Dale, nothing lasts forever—not the warmth of the fire, not the safety of shelter, and perhaps not even the hope of survival.
 
 ## Player characters
-- [[Gromnir "Frostbrewer" Stonemantle\|Gromnir "Frostbrewer" Stonemantle]]
+- [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 - [[Drakthar Frostscale\|Drakthar Frostscale]]
 
 { .block-language-dataview}
 
 ## NPC's
-- [[Jorund "Ironfist" Ravenson\|Jorund "Ironfist" Ravenson]]
+- [[Jorund -Ironfist- Ravenson\|Jorund -Ironfist- Ravenson]]
 
 { .block-language-dataview}
 
