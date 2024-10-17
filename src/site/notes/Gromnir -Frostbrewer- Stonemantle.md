@@ -5,6 +5,7 @@
 #player-character 
 ```table-of-contents
 ```
+![alt](https://static.wikia.nocookie.net/sundaysigil/images/a/ab/Dwarf16.png/revision/latest?cb=20200229164539)
 
 ## Character info test
 **Race**: [[Hill Dwarf\|Hill Dwarf]]
@@ -45,7 +46,7 @@ Deze ability scores zorgen ervoor dat Gromnir een sterke druïde is die goed kan
 Gromnir Stonemantle groeide op in de dwergenburcht [[Kharaz-Dun\|Kharaz-Dun]], verborgen in de afgelegen bergen van de [[Spine of the World\|Spine of the World]]. Als jonge [[Hill Dwarf\|Hill Dwarf]] leerde hij het ambacht van het brouwen van zijn vader, een ervaren brouwer die beroemd was om zijn sterke, donkere bieren. Gromnir had altijd een passie voor het brouwen en de kunst van het creëren van unieke smaken, vooral in de koude klimaten van zijn thuisland.
   
 ### De Reis naar Good Mead
-Op een dag besloot Gromnir dat hij zijn ambacht verder wilde verfijnen. Zijn vader, trots op zijn vastberadenheid, stuurde hem naar [[Good mead\|Good mead]], een nabijgelegen dorp in [[Icewind Dale\|Icewind Dale]], dat beroemd was om zijn speciale kruiden en honing die alleen daar groeiden. Deze kruiden gaven de bieren een unieke smaak en versterkten de magische eigenschappen ervan. Gromnir verbleef jaren in [[Good mead\|Good mead]], waar hij onder de hoede van een gerenommeerde brouwer zijn vaardigheden verder ontwikkelde. Hij leerde niet alleen de geheimen van het brouwen, maar ook de waarde van de natuur en de kruiden die daar groeiden, en hoe hij deze kon gebruiken in zijn druïde magie.
+Op een dag besloot Gromnir dat hij zijn ambacht verder wilde verfijnen. Zijn vader, trots op zijn vastberadenheid, stuurde hem naar [[Good mead\|Good mead]], een nabijgelegen dorp in [[Campaign\|Campaign]], dat beroemd was om zijn speciale kruiden en honing die alleen daar groeiden. Deze kruiden gaven de bieren een unieke smaak en versterkten de magische eigenschappen ervan. Gromnir verbleef jaren in [[Good mead\|Good mead]], waar hij onder de hoede van een gerenommeerde brouwer zijn vaardigheden verder ontwikkelde. Hij leerde niet alleen de geheimen van het brouwen, maar ook de waarde van de natuur en de kruiden die daar groeiden, en hoe hij deze kon gebruiken in zijn druïde magie.
 
 ### De Terugkeer naar Kharaz-Dun
 Na het voltooien van zijn opleiding en het verkrijgen van zijn specialisatie, keerde Gromnir met trots terug naar zijn dorp, [[Kharaz-Dun\|Kharaz-Dun]]. Hij was vastbesloten om zijn nieuwe kennis te delen met zijn familie en vrienden, en zijn brouwsels waren een groot succes. De dorpsbewoners genoten van zijn creaties, en Gromnir werd al snel een belangrijke figuur in de gemeenschap. Zijn bier hielp niet alleen bij feesten en vieringen, maar zorgde ook voor saamhorigheid en vriendschap onder de dorpsgenoten.
@@ -54,10 +55,10 @@ Na het voltooien van zijn opleiding en het verkrijgen van zijn specialisatie, ke
 Enkele jaren later ontving Gromnir een verontrustend bericht: zijn mentor in Good Mead was op mysterieuze wijze overleden. De omstandigheden van zijn dood waren verdacht en er waren geruchten dat er duistere krachten aan het werk waren in de regio. Bovendien hoorde hij dat de lokale bevolking in problemen verkeerde, getroffen door aanvallen van monsters en andere bedreigingen die voortkwamen uit de onrust in de natuur.
 
 ### De Oproep om te Handelen
-Gromnir voelde de drang om terug te keren naar [[Icewind Dale\|Icewind Dale]], niet alleen om de herinnering aan zijn mentor te eren, maar ook om zijn oude vrienden en de lokale bevolking te beschermen. Zijn ervaring als druïde en zijn kennis van de natuur maakten hem tot een waardevolle bondgenoot in deze moeilijke tijden. Hij wist dat de regio zijn hulp nodig had, en hij was vastbesloten om de strijd aan te gaan tegen de duisternis die zich verspreidde.
+Gromnir voelde de drang om terug te keren naar [[Campaign\|Campaign]], niet alleen om de herinnering aan zijn mentor te eren, maar ook om zijn oude vrienden en de lokale bevolking te beschermen. Zijn ervaring als druïde en zijn kennis van de natuur maakten hem tot een waardevolle bondgenoot in deze moeilijke tijden. Hij wist dat de regio zijn hulp nodig had, en hij was vastbesloten om de strijd aan te gaan tegen de duisternis die zich verspreidde.
 
 ### Motivaties voor de Terugkeer
-Gromnir is teruggekeerd naar [[Icewind Dale\|Icewind Dale]] om zijn oude mentor te eren, de lokale bevolking te beschermen en de mysterieuze dood van zijn mentor te onderzoeken.
+Gromnir is teruggekeerd naar [[Campaign\|Campaign]] om zijn oude mentor te eren, de lokale bevolking te beschermen en de mysterieuze dood van zijn mentor te onderzoeken.
 
 • Hij wil de balans in de natuur herstellen en is gedreven om te vechten tegen de duistere krachten die de regio bedreigen.
 
