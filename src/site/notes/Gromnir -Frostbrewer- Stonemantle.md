@@ -5,7 +5,7 @@
 #player-character 
 ```table-of-contents
 ```
-![alt](https://static.wikia.nocookie.net/sundaysigil/images/a/ab/Dwarf16.png/revision/latest?cb=20200229164539)
+![995619C2-AAF0-4B9F-BCC8-EC72BD2EF295.webp](/img/user/995619C2-AAF0-4B9F-BCC8-EC72BD2EF295.webp)
 
 ## Character info test
 **Race**: [[Hill Dwarf\|Hill Dwarf]]
@@ -52,10 +52,18 @@ Op een dag besloot Gromnir dat hij zijn ambacht verder wilde verfijnen. Zijn vad
 ### De Terugkeer naar Kharaz-Dun
 Na het voltooien van zijn opleiding en het verkrijgen van zijn specialisatie, keerde Gromnir met trots terug naar zijn dorp, [[Kharaz-Dun\|Kharaz-Dun]]. Hij was vastbesloten om zijn nieuwe kennis te delen met zijn familie en vrienden, en zijn brouwsels waren een groot succes. De dorpsbewoners genoten van zijn creaties, en Gromnir werd al snel een belangrijke figuur in de gemeenschap. Zijn bier hielp niet alleen bij feesten en vieringen, maar zorgde ook voor saamhorigheid en vriendschap onder de dorpsgenoten.
 
-### De Mysterieuze Dood van de Mentor
-Kort nadat Gromnir zijn opleiding had afgerond en naar zijn geboortedorp was teruggekeerd, ontving hij het bericht dat zijn mentor onder mysterieuze omstandigheden was overleden. Er werd gefluisterd dat de experimenten met [[Frostroot\|Frostroot]] uit de hand waren gelopen, maar niemand kende de ware oorzaak van zijn dood.
+### De Donkere Ontwikkeling
+Enkele jaren later ontving Gromnir een verontrustend bericht: zijn mentor in Good Mead was op mysterieuze wijze overleden. De omstandigheden van zijn dood waren verdacht en er waren geruchten dat er duistere krachten aan het werk waren in de regio. Bovendien hoorde hij dat de lokale bevolking in problemen verkeerde, getroffen door aanvallen van monsters en andere bedreigingen die voortkwamen uit de onrust in de natuur.
 
-Na jaren van twijfels en zorgen, en na te horen dat de situatie in Good Mead verslechterde, voelde Gromnir zich gedwongen om terug te keren naar [[Icewind Dale\|Icewind Dale]]. Hij keert terug om de gemeenschap te helpen en te beschermen. 
+### De Oproep om te Handelen
+Gromnir voelde de drang om terug te keren naar [[Icewind Dale\|Icewind Dale]], niet alleen om de herinnering aan zijn mentor te eren, maar ook om zijn oude vrienden en de lokale bevolking te beschermen. Zijn ervaring als druïde en zijn kennis van de natuur maakten hem tot een waardevolle bondgenoot in deze moeilijke tijden. Hij wist dat de regio zijn hulp nodig had, en hij was vastbesloten om de strijd aan te gaan tegen de duisternis die zich verspreidde.
+
+### Motivaties voor de Terugkeer
+Gromnir is teruggekeerd naar [[Icewind Dale\|Icewind Dale]] om zijn oude mentor te eren, de lokale bevolking te beschermen en de mysterieuze dood van zijn mentor te onderzoeken.
+
+• Hij wil de balans in de natuur herstellen en is gedreven om te vechten tegen de duistere krachten die de regio bedreigen.
+
+• Gromnir is vastbesloten om zijn vaardigheden als druïde verder te ontwikkelen en een verschil te maken in de gemeenschap.
 
 ### Persoonlijkheidskenmerken
 • **Vriendelijk en Sociaal**: Gromnir is altijd bereid om een pint te delen en verhalen te vertellen, waardoor hij snel vrienden maakt en vertrouwen opbouwt.
@@ -63,15 +71,6 @@ Na jaren van twijfels en zorgen, en na te horen dat de situatie in Good Mead ver
 • **Loyaliteit en Dapperheid**: Hij staat klaar om zijn vrienden en de zwakken te beschermen, zelfs als dat betekent dat hij zijn eigen leven op het spel moet zetten.
 
 • **Passie voor Avontuur**: Gromnir zoekt naar nieuwe ervaringen en verhalen, zowel in de wildernis als in de dorpen van Icewind Dale.
-
-## Weakness
-**Te Veel Verantwoordelijkheid Voor Zijn Baard**
-
-Gromnir beschouwt zijn baard als zijn meest waardevolle bezit. Hij besteedt elke ochtend veel tijd aan het verzorgen, vlechten, en oliën van zijn baard, wat soms ten koste gaat van belangrijke zaken. In gevechten is hij extreem bezorgd over schade aan zijn baard en kan hij zelfs in paniek raken als er iets mee gebeurt.
-
-•	**Voorbeeld**: Als een vijand een vuuraanval uitvoert, probeert Gromnir misschien meer zijn baard te beschermen dan zichzelf.
-
-•	**Situaties**: Hij zou te laat komen voor een vergadering of gevecht omdat hij nog bezig is met het perfect in model brengen van zijn baard.
 
 ## Relaties
 • [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]: Een White Dragonborn Samurai en Gromnir’s teamgenoot. Hun dynamiek kan variëren van serieuze strijd tot het delen van drank en verhalen.
