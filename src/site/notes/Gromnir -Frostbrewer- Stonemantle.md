@@ -52,11 +52,6 @@ Op een dag besloot Gromnir dat hij zijn ambacht verder wilde verfijnen. Zijn vad
 ### De Terugkeer naar Kharaz-Dun
 Na het voltooien van zijn opleiding en het verkrijgen van zijn specialisatie, keerde Gromnir met trots terug naar zijn dorp, [[Kharaz-Dun\|Kharaz-Dun]]. Hij was vastbesloten om zijn nieuwe kennis te delen met zijn familie en vrienden, en zijn brouwsels waren een groot succes. De dorpsbewoners genoten van zijn creaties, en Gromnir werd al snel een belangrijke figuur in de gemeenschap. Zijn bier hielp niet alleen bij feesten en vieringen, maar zorgde ook voor saamhorigheid en vriendschap onder de dorpsgenoten.
 
-### Verborgen Geheim: De Duistere Brouwsels van Good Mead
-Toen Gromnir zijn vakmanschap als brouwer onder de hoede van zijn mentor in [[Good mead\|Good Mead]] leerde, ontdekte hij niet alleen zeldzame kruiden, maar ook een mysterieuze, gevaarlijke substantie die zijn mentor in het geheim gebruikte. Deze substantie, bekend als “[[Frostroot\|Frostroot]],” was een magisch ingrediënt dat diepe krachten kon ontsluiten, maar alleen groeide in de koudste, gevaarlijkste delen van [[Icewind Dale\|Icewind Dale]]. Hoewel het de smaak van het bier verrijkte en zijn medicinale werking versterkte, had het ook een duister effect op de drinkers: het leidde tot bizarre visioenen en gaf sommigen ongekende kracht, maar het verwoestte hun gezondheid en geest op de lange termijn.
-
-Gromnir begon te vermoeden dat zijn mentor niet alleen geïnteresseerd was in het maken van goed bier, maar ook in de geheimen en macht die [[Frostroot\|Frostroot]] bood. Zijn mentor hield vol dat het slechts om experimenten ging om betere brouwsels te creëren, maar [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]] zag het verslechterende effect op enkele van de dorpsbewoners die het bier in grote hoeveelheden dronken.
-
 ### De Mysterieuze Dood van de Mentor
 Kort nadat Gromnir zijn opleiding had afgerond en naar zijn geboortedorp was teruggekeerd, ontving hij het bericht dat zijn mentor onder mysterieuze omstandigheden was overleden. Er werd gefluisterd dat de experimenten met [[Frostroot\|Frostroot]] uit de hand waren gelopen, maar niemand kende de ware oorzaak van zijn dood.
 
@@ -69,6 +64,14 @@ Na jaren van twijfels en zorgen, en na te horen dat de situatie in Good Mead ver
 
 • **Passie voor Avontuur**: Gromnir zoekt naar nieuwe ervaringen en verhalen, zowel in de wildernis als in de dorpen van Icewind Dale.
 
+## Weakness
+**Te Veel Verantwoordelijkheid Voor Zijn Baard**
+
+Gromnir beschouwt zijn baard als zijn meest waardevolle bezit. Hij besteedt elke ochtend veel tijd aan het verzorgen, vlechten, en oliën van zijn baard, wat soms ten koste gaat van belangrijke zaken. In gevechten is hij extreem bezorgd over schade aan zijn baard en kan hij zelfs in paniek raken als er iets mee gebeurt.
+
+•	**Voorbeeld**: Als een vijand een vuuraanval uitvoert, probeert Gromnir misschien meer zijn baard te beschermen dan zichzelf.
+
+•	**Situaties**: Hij zou te laat komen voor een vergadering of gevecht omdat hij nog bezig is met het perfect in model brengen van zijn baard.
 
 ## Relaties
 • [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]: Een White Dragonborn Samurai en Gromnir’s teamgenoot. Hun dynamiek kan variëren van serieuze strijd tot het delen van drank en verhalen.

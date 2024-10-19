@@ -45,7 +45,7 @@ Informatie over [[Icewind Dale\|Icewind Dale]]
 { .block-language-dataview}
 
 ## Sessies
-- [[2024-10-24 - Sessie 1\|2024-10-24 - Sessie 1]]
+- [[2024-10-24 Sessie 1\|2024-10-24 Sessie 1]]
 
 { .block-language-dataview}
 

@@ -8,4 +8,4 @@
 ```
 
 ## Algemene info
-Geboortedorp van [[Gromnir "Frostbrewer" Stonemantle\|Gromnir "Frostbrewer" Stonemantle]]
+Geboortedorp van [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
