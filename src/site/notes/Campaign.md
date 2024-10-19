@@ -13,8 +13,8 @@ Informatie over [[Icewind Dale\|Icewind Dale]]
 ## Player characters
 - [[Xilraen Mizzrym\|Xilraen Mizzrym]]
 - [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
-- [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 - [[Thorin Spicedbrew\|Thorin Spicedbrew]]
+- [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 
 { .block-language-dataview}
 
