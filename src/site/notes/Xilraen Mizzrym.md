@@ -9,9 +9,9 @@
 ![2152C808-96FF-4EF0-9729-2D948E6FC0FE.jpeg](/img/user/2152C808-96FF-4EF0-9729-2D948E6FC0FE.jpeg)
 
 ## Character info
-**Race**: [[Elf\|Elf]]
+**Race**: [[Drow Elf\|Drow Elf]]
 **Class**: [[Warlock\|Warlock]]
-**Background**: ???
+**Background**: Outlander
 **Player**: Zoë 
 
 ### Ability scores
