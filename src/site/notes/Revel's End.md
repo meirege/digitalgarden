@@ -66,7 +66,10 @@
 
 ### Prisoner 13: Varrin Axebreaker
 
-- Appearance: A thin, wiry half-elf woman with cropped brown hair and pale gray eyes. She has a quiet, eerie demeanor and rarely speaks above a whisper. Her movements are calculated and smooth, and she wears a mask of indifference. [https://5e.tools/img/adventure/KftGV/034-p13-004.prisoner-13.webp](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://5e.tools/img/adventure/KftGV/034-p13-004.prisoner-13.webp%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1728821764412133%26amp;usg%3DAOvVaw1dDBu_CEH2XmKDtcxxxnhR&sa=D&source=docs&ust=1728821764421694&usg=AOvVaw28ED4X0H-iArjzE7SpscTc)
+- Appearance: A thin, wiry half-elf woman with cropped brown hair and pale gray eyes. She has a quiet, eerie demeanor and rarely speaks above a whisper. Her movements are calculated and smooth, and she wears a mask of indifference. 
+
+![IMG_0155.webp](/img/user/IMG_0155.webp)
+
 - Crime: Betrayal and Clan Treachery. Varrin was once a respected commander within the dwarven Axebreaker Clan, known for their fierce warriors and strategic minds. She was a trusted figure, but her ambition led her down a darker path. She orchestrated a betrayal against her own clan, conspiring with rival factions in a bid for personal power. The betrayal resulted in the deaths of several clan members and the ruin of the Axebreakers' stronghold.  
     She is the only person who knows how to open the Axebreaker vault and she is in the prison of Revel's End. She's proved uncooperative with people in the past, the Axebreaker clan  recently discovered the vault where she hid what she stole but they can’t open it without the key.
 
@@ -74,7 +77,7 @@
 
 - Appearance: Vaelish Gant is a middle-aged human male with sharp, aristocratic features and a demeanor of cold confidence. He has pale skin, slicked-back dark hair that has started to gray at the temples, and piercing brown eyes that seem to constantly be plotting. Despite the harsh conditions of Revel’s End, Vaelish always appears composed and unnervingly calm, wearing a smug, knowing smile that suggests he’s still in control of his fate, even in captivity.
 
-[https://www.dndbeyond.com/avatars/12734/939/637357081739596776.png](https://www.google.com/url?q=https://www.google.com/url?q%3Dhttps://www.dndbeyond.com/avatars/12734/939/637357081739596776.png%26amp;sa%3DD%26amp;source%3Deditors%26amp;ust%3D1728821764412896%26amp;usg%3DAOvVaw2_4yoPdX6DLIzv5ZtZohtH&sa=D&source=docs&ust=1728821764422167&usg=AOvVaw28Rqr4LKoztPjztEMFN_cq)
+![IMG_0154.png](/img/user/IMG_0154.png)
 
 - Crime: Vaelish Gant is a former agent of the Arcane Brotherhood, a powerful organization of mages that operates throughout Faerûn. Sent to Icewind Dale to expand the Brotherhood’s influence, Vaelish orchestrated a scheme to take control of the Ten-Towns by manipulating trade and consolidating power through extortion, blackmail, and magical influence. His ambition knew no bounds, as he sought to install himself as a de facto ruler of the region.
 
