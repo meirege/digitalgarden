@@ -13,10 +13,10 @@ https://www.dndbeyond.com/campaigns/join/5808112588734630
 Informatie over [[Icewind Dale\|Icewind Dale]]
 
 ## Player characters
+- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 - [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 - [[Xilraen Mizzrym\|Xilraen Mizzrym]]
 - [[Thorin Spicedbrew\|Thorin Spicedbrew]]
-- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 
 { .block-language-dataview}
 
