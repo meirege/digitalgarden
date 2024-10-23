@@ -6,7 +6,7 @@
 
 ```table-of-contents
 ```
-
+![93F32CBA-B756-481D-8D8F-FD42620A90E9.jpeg](/img/user/93F32CBA-B756-481D-8D8F-FD42620A90E9.jpeg)
 ## Character info
 **Race**: [[Dragonborne\|Dragonborne]]
 **Class**: [[Fighter\|Fighter]]
