@@ -2,15 +2,15 @@
 {"dg-publish":true,"permalink":"/ten-towns/"}
 ---
 
-- [[Termalaine\|Termalaine]]
-- [[Targos\|Targos]]
-- [[Loneleywood\|Loneleywood]]
-- [[Good mead\|Good mead]]
 - [[Easthaven\|Easthaven]]
+- [[Good mead\|Good mead]]
 - [[Dougan's Hole\|Dougan's Hole]]
 - [[Caer-Dineval\|Caer-Dineval]]
-- [[Caer Konig\|Caer Konig]]
+- [[Targos\|Targos]]
+- [[Termalaine\|Termalaine]]
 - [[Bryan Shander\|Bryan Shander]]
+- [[Loneleywood\|Loneleywood]]
+- [[Caer Konig\|Caer Konig]]
 - [[Bremen\|Bremen]]
 
 { .block-language-dataview}
