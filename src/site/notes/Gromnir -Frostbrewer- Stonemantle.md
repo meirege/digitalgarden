@@ -72,6 +72,10 @@ Gromnir is teruggekeerd naar [[Icewind Dale\|Icewind Dale]] om zijn oude mentor 
 
 • **Passie voor Avontuur**: Gromnir zoekt naar nieuwe ervaringen en verhalen, zowel in de wildernis als in de dorpen van Icewind Dale.
 
+### Random info
+Hij vond in [[Revel's End\|Revel's End]] een potje met een gele roos in. Deze ruikt naar een rode roos maar met een sterkere citroengeur. 
+Idee voor een biertje te brouwen met citrus smaken? Veilig of eerst verder onderzoeken?
+
 ## Relaties
 • [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]: Een White Dragonborn Samurai en Gromnir’s teamgenoot. Hun dynamiek kan variëren van serieuze strijd tot het delen van drank en verhalen.
 

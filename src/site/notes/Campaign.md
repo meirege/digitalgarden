@@ -13,9 +13,9 @@ https://www.dndbeyond.com/campaigns/join/5808112588734630
 Informatie over [[Icewind Dale\|Icewind Dale]]
 
 ## Player characters
-- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 - [[Xilraen Mizzrym\|Xilraen Mizzrym]]
 - [[Thorin Spicedbrew\|Thorin Spicedbrew]]
+- [[Kenrokuen -Ryu- Kanazawa\|Kenrokuen -Ryu- Kanazawa]]
 - [[Gromnir -Frostbrewer- Stonemantle\|Gromnir -Frostbrewer- Stonemantle]]
 
 { .block-language-dataview}
@@ -26,16 +26,16 @@ Informatie over [[Icewind Dale\|Icewind Dale]]
 { .block-language-dataview}
 
 ## Locaties
-### Ten towns
-- [[Easthaven\|Easthaven]]
+### [[Ten-Towns\|Ten-Towns]]
+- [[Termalaine\|Termalaine]]
+- [[Targos\|Targos]]
+- [[Loneleywood\|Loneleywood]]
 - [[Good mead\|Good mead]]
+- [[Easthaven\|Easthaven]]
 - [[Dougan's Hole\|Dougan's Hole]]
 - [[Caer-Dineval\|Caer-Dineval]]
-- [[Targos\|Targos]]
-- [[Termalaine\|Termalaine]]
-- [[Bryan Shander\|Bryan Shander]]
-- [[Loneleywood\|Loneleywood]]
 - [[Caer Konig\|Caer Konig]]
+- [[Bryan Shander\|Bryan Shander]]
 - [[Bremen\|Bremen]]
 
 { .block-language-dataview}

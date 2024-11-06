@@ -26,7 +26,7 @@
 
 
 ## Background
- Thorin Spicedbrew groeide op in de heuvels van een welvarend dwergenclan, bekend om hun eeuwenoude familiebedrijf: Spicedbrew's Glorious Glühwein. Deze hartverwarmende drank, rijk aan kruiden en geheimzinnige smaken, werd al generaties lang geprezen, vooral tijdens de koude maanden. Thorin's ouders hadden grote plannen om de faam van hun glühwein verder uit te breiden, maar de verkoop begon de laatste jaren af te nemen. De markt raakte verzadigd en concurrentie uit andere streken was moordend.
+ Thorin Spicedbrew groeide op in de heuvels van een welvarend dwergenclan, bekend om hun eeuwenoude familiebedrijf: [[Spicedbrew's Glorious Glühwein\|Spicedbrew's Glorious Glühwein]]. Deze hartverwarmende drank, rijk aan kruiden en geheimzinnige smaken, werd al generaties lang geprezen, vooral tijdens de koude maanden. Thorin's ouders hadden grote plannen om de faam van hun glühwein verder uit te breiden, maar de verkoop begon de laatste jaren af te nemen. De markt raakte verzadigd en concurrentie uit andere streken was moordend.
 
 Als toegewijd [[Cleric\|cleric]] van [[Moradin\|Moradin]], de god van ambacht en traditie, voelde Thorin het als zijn plicht om zijn familiebedrijf te redden. Hij besloot zijn horizon te verbreden en een nieuwe afzetmarkt te vinden. Zijn oog viel op de ijzige wildernis van [[Icewind Dale\|Icewind Dale]], waar de bittere kou en lange winters perfect leken voor een warme, troostrijke drank zoals glühwein. Met zijn kar vol flessen en kruiken doorkruiste hij de besneeuwde passen en arriveerde vol goede moed in [[Icewind Dale\|Icewind Dale]].
 

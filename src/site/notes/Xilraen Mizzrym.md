@@ -29,4 +29,5 @@
 ## Background
  
 
-## Relaties
+## Random info
+[[Xilraen Mizzrym\|Xilraen Mizzrym]] heeft een [[grijze potion\|grijze potion]] opgeraapt in de sick bay van [[Revel's End\|Revel's End]]. 
